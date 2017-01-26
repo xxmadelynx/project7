@@ -21,5 +21,12 @@ h2 {
    color: red;
 }
 
+.important-point {
+   text-decoration: underline;
+}
+
+.emphasis {
+   font-style: italic;
+}
    
 
