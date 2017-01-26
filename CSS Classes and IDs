@@ -7,8 +7,9 @@ h2 {
    text-align: center;
 }
 
-.place-description {
+
    font-family: "Verdana";
    color: olive;
+
    
 
