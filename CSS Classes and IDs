@@ -16,5 +16,10 @@ h2 {
    color: purple;
 }
 
+.top-favorite {
+   font-weight: bold;
+   color: red;
+}
+
    
 
