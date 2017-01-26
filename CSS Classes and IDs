@@ -1,4 +1,14 @@
-#headline {
+#main-headline {
   text-align: center;
   color: "blue";
 }
+
+h2 {
+   text-align: center;
+}
+
+.place-description {
+   font-family: "Verdana";
+   color: olive;
+   
+
