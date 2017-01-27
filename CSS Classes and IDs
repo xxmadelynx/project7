@@ -1,32 +1,23 @@
 #main-headline {
+
+  color: blue;
   text-align: center;
-  color: "blue";
 }
+
 
 h2 {
-   text-align: center;
+
+  text-align: center;
 }
 
+
 .place-description {
-   font-family: "Verdana";
-   color: olive;
+
+  font-family: Veranda;
+  color: green;
 }
 
 .person-description {
-   color: purple;
-}
 
-.top-favorite {
-   font-weight: bold;
-   color: red;
+  color: purple;
 }
-
-.important-point {
-   text-decoration: underline;
-}
-
-.emphasis {
-   font-style: italic;
-}
-   
-
